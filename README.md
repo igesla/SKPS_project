@@ -1,5 +1,5 @@
 # SKPS_project
-OpemFoam simulation. Laminar flow around a cylinder, visualising structures on different Reynolds number.
+OpenFoam simulation. Laminar flow around a cylinder, visualising structures on different Reynolds number.
 
 This is an academic project made created based on Asmaa Hadane open tutorials https://github.com/AsmaaHADANE/Youtube-Tutorials/blob/master/flow_around_cylinder.zip
 
